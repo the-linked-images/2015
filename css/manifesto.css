@@ -1,0 +1,53 @@
+p{
+	font-size: 17px;
+	padding-right: 700px;
+}
+
+h1{padding-left: 50px;
+	padding-top: 30px;
+font-size: 35px;}
+
+
+span:link {
+    text-decoration: none;
+    color:black;
+}
+
+
+span:visited{
+	color:black;
+	text-shadow:none;
+}
+		
+
+
+span:hover {
+    color: blue;
+    	text-shadow:none;
+
+}
+
+span.text4:hover {
+color:#A8A8A8;
+}
+
+a:link{
+text-decoration: none;
+    color:black;
+
+}
+
+a:visited{
+color:black;
+	text-shadow:none;
+}
+
+
+img{
+	height:200px;
+	padding-top:30px;
+	padding-right:80px;
+	padding-bottom:30px;
+
+
+}
